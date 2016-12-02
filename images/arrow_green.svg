@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>pil</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Skisser-sidemaler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kalender" sketch:type="MSArtboardGroup" transform="translate(-791.000000, -1294.000000)" stroke="#0DA6A3" stroke-width="2">
+            <g id="Feed-(i-dag)" sketch:type="MSLayerGroup" transform="translate(305.000000, 561.000000)">
+                <g id="Pågående-event" transform="translate(1.000000, 709.000000)" sketch:type="MSShapeGroup">
+                    <path d="M489,22 L493.259766,26.9737455 L489.04127,31.8993033" id="pil" transform="translate(491.129883, 26.949652) rotate(-270.000000) translate(-491.129883, -26.949652) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

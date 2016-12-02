@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Klokke</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Skisser-sidemaler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artikkel-" sketch:type="MSArtboardGroup" transform="translate(-697.000000, -534.000000)" fill="#606060">
+            <g id="Overskrift-og-ingress" sketch:type="MSLayerGroup" transform="translate(221.000000, 340.000000)">
+                <g id="Byline" transform="translate(199.000000, 192.000000)" sketch:type="MSShapeGroup">
+                    <g id="Klokke" transform="translate(277.000000, 2.000000)">
+                        <path d="M10.9594375,21.5813333 C5.0056875,21.5813333 0.1615625,16.8846667 0.1615625,11.1113333 C0.1615625,5.33866667 5.0056875,0.642 10.9594375,0.642 C16.9131875,0.642 21.756625,5.33866667 21.756625,11.1113333 C21.756625,16.8846667 16.9131875,21.5813333 10.9594375,21.5813333 L10.9594375,21.5813333 Z M10.9594375,1.97533333 C5.764,1.97533333 1.5365625,6.07333333 1.5365625,11.1113333 C1.5365625,16.1493333 5.764,20.248 10.9594375,20.248 C16.1541875,20.248 20.381625,16.1493333 20.381625,11.1113333 C20.381625,6.07333333 16.1541875,1.97533333 10.9594375,1.97533333 L10.9594375,1.97533333 Z" id="Fill-1"></path>
+                        <path d="M16.7468125,15.768 L10.4011875,11.404 L10.4011875,3.682 L11.56925,3.682 L11.56925,10.818 L17.4233125,14.844 L16.7468125,15.768" id="Fill-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

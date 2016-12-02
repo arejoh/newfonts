@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html class="uib-base">
+  <head>
+		<title>uib-base</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond|Open+Sans:400,400i,700,700i&amp;subset=cyrillic-ext,latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/style.css?1480664906" media="all" />
+    <link rel="stylesheet" href="../../css/drupal-built-in-styles.css" media="all" />
+    <link rel="stylesheet" href="../../css/system.base.css" media="all" />
+    <link rel="stylesheet" href="../../css/field_collection.theme.css" media="all" />
+
+		<!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
+				<!-- never cache patterns -->
+		<meta http-equiv="cache-control" content="max-age=0" />
+		<meta http-equiv="cache-control" content="no-cache" />
+		<meta http-equiv="expires" content="0" />
+		<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+		<meta http-equiv="pragma" content="no-cache" />
+		
+		<link rel="stylesheet" href="../../styleguide/css/styleguide.css?1480664906" media="all">
+		<link rel="stylesheet" href="../../styleguide/css/styleguide-specific.css?1480664906" media="all" />
+		
+
+		<!-- End Pattern Lab -->
+
+	</head>
+	<body class="body">
+
+<div class="event-types-filter">
+	<p>Filtrer på arrangementstype</p>
+	<div>
+		<input id="check-event" type="checkbox" data-type="event"><label for="check-event" class="option">Arrangement (24)</label>
+	</div>
+	<div>
+		<input id="check-book_release" type="checkbox" data-type="book_release"> <label for="check-book_release" class="option">Boklansering (2)</label>
+	</div>
+	<div>
+		<input id="check-disputation" type="checkbox" data-type="disputation"> <label for="check-disputation" class="option">Disputas (9)</label>
+	</div>
+	<div>
+		<input id="check-course" type="checkbox" data-type="course"> <label for="check-course" class="option">Emne (16)</label>
+	</div>
+	<div>
+		<input id="check-lecture" type="checkbox" data-type="lecture"> <label for="check-lecture" class="option">Foredrag (21)</label>
+	</div>
+	<div>
+		<input id="check-guest_lecturer" type="checkbox" data-type="guest_lecturer"> <label for="check-guest_lecturer" class="option">Gjesteforelesning (13)</label>
+	</div>
+	<div>
+		<input id="check-conference" type="checkbox" data-type="conference"> <label for="check-conference" class="option">Konferanse (20)</label>
+	</div>
+	<div>
+		<input id="check-consert" type="checkbox" data-type="consert"> <label for="check-consert" class="option">Konsert (4)</label>
+	</div>
+	<div>
+		<input id="check-course_hms" type="checkbox" data-type="course_hms"> <label for="check-course_hms" class="option">Kurs - HMS (2)</label>
+	</div>
+	<div>
+		<input id="check-course_leadership" type="checkbox" data-type="course_leadership"> <label for="check-course_leadership" class="option">Kurs - ledelse (3)</label>
+	</div>
+	<div>
+		<input id="check-course_faculty_development" type="checkbox" data-type="course_faculty_development"> <label for="check-course_faculty_development" class="option">Kurs - universitetspedagogikk (2)</label>
+	</div>
+	<div>
+		<input id="check-course_economy" type="checkbox" data-type="course_economy"> <label for="check-course_economy" class="option">Kurs - økonomi (6)</label>
+	</div>
+	<div>
+		<input id="check-meeting" type="checkbox" data-type="meeting"> <label for="check-meeting" class="option">Møte (3)</label>
+	</div>
+	<div>
+		<input id="check-presentation" type="checkbox" data-type="presentation"> <label for="check-presentation" class="option">Presentasjon (1)</label>
+	</div>
+	<div>
+		<input id="check-trial_lecture" type="checkbox" data-type="trial_lecture"> <label for="check-trial_lecture" class="option">Prøveforelesning (8)</label>
+	</div>
+	<div>
+		<input id="check-seminar" type="checkbox" data-type="seminar"> <label for="check-seminar" class="option">Seminar (25)</label>
+	</div>
+	<div>
+		<input id="check-exhibition" type="checkbox" data-type="exhibition"> <label for="check-exhibition" class="option">Utstilling (5)</label>
+	</div>
+	<div>
+		<input id="check-workshop" type="checkbox" data-type="workshop"> <label for="check-workshop" class="option">Workshop (7)</label>
+	</div>
+	<button id="show-events">Vis alle arrangement</button>
+</div>	
+		<script src="../../js/global.js"></script>
+	
+	
+
+	<!--DO NOT REMOVE-->
+		
+	<script>
+		// handle injection of items from PHP
+		var patternPartial = "molecules-event-types-checkbox";
+		var lineage        = [];
+		var lineageR       = [];
+		var patternState   = "";
+		var cssEnabled     = false;
+	</script>
+		<script>
+		/*!
+		 * scriptLoader - v0.1
+		 *
+		 * Copyright (c) 2014 Dave Olsen, http://dmolsen.com
+		 * Licensed under the MIT license
+		 *
+		 */
+		
+		var scriptLoader = {
+			
+			run: function(js,cb,target) {
+				var s  = document.getElementById(target+'-'+cb); 
+				for (var i = 0; i < js.length; i++) {
+					var src = (typeof js[i] != "string") ? js[i].src : js[i];
+					var c   = document.createElement('script');
+					c.src   = '../../'+src+'?'+cb;
+					if (typeof js[i] != "string") {
+						if (js[i].dep !== undefined) {
+							c.onload = function(dep,cb,target) {
+								return function() {
+									scriptLoader.run(dep,cb,target);
+								}
+							}(js[i].dep,cb,target);
+						}
+					}
+					s.parentNode.insertBefore(c,s);
+				}
+			}
+			
+		}
+	</script>
+	<script id="pl-js-polyfill-insert-1480664906">
+		(function() {
+			if (self != top) {
+				var cb = '1480664906';
+				var js = [];
+				if (typeof document !== "undefined" && !("classList" in document.documentElement)) {
+					js.push("styleguide/js/vendor/classlist-polyfill.js");
+				}
+				scriptLoader.run(js,cb,'pl-js-polyfill-insert');
+			}
+		})();
+	</script>
+	<script id="pl-js-insert-1480664906">
+		(function() {
+			if (self != top) {
+				var cb = '1480664906';
+				var js = [ { "src": "styleguide/js/vendor/jwerty.js", "dep": [ "styleguide/js/postmessage.js", { "src": "data/annotations.js", "dep": [ "styleguide/js/annotations-pattern.js" ] }, "styleguide/js/code-pattern.js" ] } ];
+				scriptLoader.run(js,cb,'pl-js-insert');
+			}
+		})();
+	</script>
+	
+
+
+	</body>
+</html>

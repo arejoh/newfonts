@@ -1,0 +1,18 @@
+&lt;div id=&quot;user_user_full_group_user_work_1&quot; class=&quot;group-user-work-1 field-group-div uib-tabs-container clearfix&quot;&gt;
+  &lt;ul class=&quot;uib-tabs-list ui-widget-header&quot;&gt;
+    &lt;li class=&quot;ui-state-active&quot;&gt;&lt;a href=&quot;#{{ name.first }}&quot;&gt;{{ name.first }} {{ name.last }}&lt;/a&gt;&lt;/li&gt;
+    {{# listItems.three }}
+      &lt;li&gt;&lt;a href=&quot;#{{ name.first }}&quot;&gt;{{ name.first }} {{ name.last }}&lt;/a&gt;&lt;/li&gt;
+    {{/ listItems.three }}
+  &lt;/ul&gt;
+  {{# listItems.four }}
+  &lt;div id=&quot;{{ name.first }}&quot; class=&quot;ui-widget-content&quot;&gt;
+    &lt;h2&gt;{{ name.first }} {{ name.last }}&lt;/h2&gt;
+    &lt;p&gt;{{ excerpt.short }}&lt;/p&gt;
+    &lt;h4&gt;{{ headline.short }}&lt;/h4&gt;
+    &lt;p&gt;&lt;a href=&quot;{{ url }}&quot;&gt;{{ url }}&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;{{ excerpt.medium }}&lt;/p&gt;
+    &lt;p&gt;{{ excerpt.long }}&lt;/p&gt;
+  &lt;/div&gt;
+  {{/ listItems.four }}
+&lt;/div&gt;

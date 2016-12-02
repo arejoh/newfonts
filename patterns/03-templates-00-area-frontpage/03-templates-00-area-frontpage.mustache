@@ -1,0 +1,17 @@
+&lt;div class=&quot;node-type-area{{# expanded }} uib-area-expanded-menu{{/ expanded}}{{# frontpage }} front banner-image{{/ frontpage }}&quot;&gt;
+  {{&gt; organisms-header }}
+  {{# frontpage }}
+  {{&gt; organisms-frontpage-body }}
+  {{/ frontpage }}
+  {{^ frontpage }}
+  {{&gt; organisms-subheader }}
+  {{# expanded }}
+    {{&gt; molecules-secondary-nav-expanded }}
+  {{/ expanded}}
+  {{^ expanded }}
+    {{&gt; molecules-secondary-nav-collapsed }}
+  {{/ expanded}}
+  {{&gt; organisms-area-frontpage-body }}
+  {{/ frontpage }}
+  {{&gt; organisms-footer }}
+&lt;/div&gt;

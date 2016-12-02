@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="22px" viewBox="0 0 15 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15588) - http://www.bohemiancoding.com/sketch -->
+    <title>Ikon logg på</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Skisser-sidemaler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Personside-2" sketch:type="MSArtboardGroup" transform="translate(-1151.000000, -295.000000)" fill="#606060">
+            <g id="Last-ned-visittkort-/-Logg-på" sketch:type="MSLayerGroup" transform="translate(960.000000, 295.000000)">
+                <path d="M202.579,6.798 L204.832,6.798 C204.832,-2.266 191.236,-2.266 191.236,6.798 L193.49,6.798 C193.49,0.738 202.579,0.738 202.579,6.798 L202.579,6.798 Z M191,7.448 L191,14.659 C191,18.25 193.911,21.161 197.502,21.161 L198.567,21.161 C202.157,21.161 205.069,18.25 205.069,14.659 L205.069,7.448 L191,7.448 L191,7.448 Z M198.509,14.162 L198.509,15.78 L197.56,15.78 L197.56,14.162 C197.076,13.972 196.735,13.502 196.735,12.952 C196.735,12.233 197.316,11.651 198.035,11.651 C198.752,11.651 199.334,12.233 199.334,12.952 C199.334,13.502 198.992,13.972 198.509,14.162 L198.509,14.162 Z" id="Ikon-logg-på" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

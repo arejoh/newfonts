@@ -1,0 +1,52 @@
+&lt;main&gt;
+  &lt;div class=&quot;content-main-wrapper&quot;&gt;
+    &lt;div class=&quot;region region-content&quot;&gt;
+      &lt;div class=&quot;block block-system&quot; id=&quot;block-system-main&quot;&gt;
+        &lt;div class=&quot;content&quot;&gt;
+          &lt;div class=&quot;node node-uib-views-page clearfix&quot; id=&quot;node-87344&quot;&gt;
+            &lt;div class=&quot;content&quot;&gt;
+              {{&gt; atoms-study-list-title(title:&quot;Courses for exchange students&quot;)}}
+              {{&gt; atoms-study-list-text}}
+
+              &lt;div class=&quot;block block-views&quot; id=&quot;block-views-special-study-listings-b1&quot;&gt;
+                &lt;div class=&quot;content&quot;&gt;
+                  &lt;div class=&quot;view view-special-study-listings view-id-special_study_listings view-display-id-b1 view-dom-id-95231b5e384855b9fa85d976267b5414 jquery-once-2-processed&quot;&gt;
+                    &lt;div class=&quot;view-filters&quot;&gt;
+                      &lt;form accept-charset=&quot;UTF-8&quot; id=&quot;views-exposed-form-special-study-listings-b1&quot; method=&quot;get&quot; action=&quot;/en/education/quota&quot; class=&quot;jquery-once-2-processed&quot;&gt;
+                        &lt;div&gt;
+                          &lt;div class=&quot;views-exposed-form&quot;&gt;
+                            &lt;div class=&quot;views-exposed-widgets clearfix&quot;&gt;
+                              {{&gt; molecules-filter-by-faculty }}
+                              {{&gt; molecules-filter-by-semester }}
+                              &lt;div class=&quot;views-exposed-widget views-submit-button&quot;&gt;
+                                &lt;input type=&quot;submit&quot; class=&quot;form-submit&quot; value=&quot;Apply&quot; name=&quot;&quot; id=&quot;edit-submit-special-study-listings&quot;&gt; &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/form&gt;
+                    &lt;/div&gt;
+										{{&gt; atoms-study-list-results-found(type: &quot;exchange courses&quot;) }}
+                    &lt;div class=&quot;view-content&quot;&gt;
+                      &lt;div class=&quot;item-list&quot;&gt;
+                        &lt;ul&gt;
+                          {{# listItems.ten }}
+                          &lt;li class=&quot;&quot;&gt;
+                            &lt;div&gt;
+                              &lt;div&gt;&lt;a href=&quot;{{ url }}&quot;&gt;{{name.firsti}}{{name.middlei}}{{name.lasti}}{{hour.short}}{{minute.long}} /
+                                {{title}}&lt;/a&gt;&lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/li&gt;
+                          {{/ listItems.ten }}
+                        &lt;/ul&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;

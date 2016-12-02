@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="21px" viewBox="0 0 28 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15588) - http://www.bohemiancoding.com/sketch -->
+    <title>Ikon visittkort</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Skisser-sidemaler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Personside-2" sketch:type="MSArtboardGroup" transform="translate(-960.000000, -296.000000)" fill="#606060">
+            <g id="Last-ned-visittkort-/-Logg-på" sketch:type="MSLayerGroup" transform="translate(960.000000, 295.000000)">
+                <path d="M26.513,1 L1.153,1 C0.516,1 0,1.516 0,2.153 L0,20.597 C0,21.234 0.516,21.75 1.153,21.75 L26.513,21.75 C27.151,21.75 27.666,21.234 27.666,20.597 L27.666,2.153 C27.666,1.516 27.151,1 26.513,1 L26.513,1 Z M8.069,17.283 C5.764,17.283 3.315,16.931 3.315,16.562 C3.315,15.977 3.819,14.293 4.179,13.969 C4.539,13.644 5.817,13.312 6.435,13.104 C6.9,12.872 6.917,12.825 6.917,12.527 L6.917,12.095 C6.094,11.453 5.62,10.273 5.62,9.214 C5.62,7.866 6.708,6.62 8.069,6.62 C9.431,6.62 10.519,7.866 10.519,9.214 C10.519,10.273 10.045,11.453 9.222,12.095 L9.222,12.527 C9.222,12.825 9.239,12.872 9.704,13.104 C10.322,13.312 11.6,13.644 11.96,13.969 C12.32,14.293 12.824,15.977 12.824,16.562 C12.824,16.931 10.375,17.283 8.069,17.283 L8.069,17.283 Z M14.986,14.833 L24.209,14.833 L24.209,15.986 L14.986,15.986 L14.986,14.833 Z M14.986,11.951 L24.209,11.951 L24.209,13.104 L14.986,13.104 L14.986,11.951 Z M14.986,9.07 L24.209,9.07 L24.209,10.223 L14.986,10.223 L14.986,9.07 Z" id="Ikon-visittkort" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

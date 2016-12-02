@@ -1,0 +1,121 @@
+&lt;main&gt;
+  &lt;div class=&quot;content-main-wrapper&quot;&gt;
+    &lt;div class=&quot;region region-content&quot;&gt;
+      &lt;div class=&quot;block block-system&quot; id=&quot;block-system-main&quot;&gt;
+        &lt;div class=&quot;content&quot;&gt;
+          &lt;div class=&quot;node node-uib-views-page clearfix&quot; id=&quot;node-87341&quot;&gt;
+            &lt;div class=&quot;content&quot;&gt;
+              {{&gt; atoms-study-list-title(title: &quot;Find exchange agreements&quot;) }}
+							{{&gt; atoms-study-list-text }}
+              &lt;div class=&quot;block block-views&quot; id=&quot;block-views-exchange-agreements-b1&quot;&gt;
+                &lt;div class=&quot;content&quot;&gt;
+                  &lt;div class=&quot;view view-exchange-agreements view-id-exchange_agreements view-display-id-b1 view-dom-id-d0801033fce963d802b3da4ca538d8e9 jquery-once-2-processed&quot;&gt;
+                    &lt;div class=&quot;view-filters&quot;&gt;
+                      &lt;form accept-charset=&quot;UTF-8&quot; id=&quot;views-exposed-form-exchange-agreements-b1&quot; method=&quot;get&quot; action=&quot;/en&quot; class=&quot;jquery-once-2-processed&quot;&gt;
+                        &lt;div&gt;
+                          &lt;div class=&quot;views-exposed-form&quot;&gt;
+                            &lt;div class=&quot;views-exposed-widgets clearfix&quot;&gt;
+                              {{&gt; molecules-filter-by-faculty }}
+                              {{&gt; atoms-bef-autocomplete(label: &quot;Filter by country or continent&quot;) }}
+                              {{&gt; atoms-bef-autocomplete(label: &quot;Filter by study programme&quot;, id: &quot;edit-field-uib-study-code-value-wrapper&quot;,
+                              desc: &quot;Legg inn studiekoden (t.d. BAPS-AOP) for ditt studieprogram og f&Atilde;&yen; opp avtalar som er spesielt anbefalt. &lt;a href='#'&gt;Finn din studiekode.&lt;/a&gt;&quot;) }}
+                              {{&gt; atoms-bef-submit-button(label: &quot;Apply&quot;) }}
+                            &lt;/div&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/form&gt;
+                    &lt;/div&gt;
+                    {{&gt; atoms-study-list-results-found(type: &quot;exchange agreements&quot;) }}
+                    &lt;div class=&quot;view-content&quot;&gt;
+                      &lt;div class=&quot;item-list&quot;&gt;
+                        &lt;h3&gt;Department of Administration and Organization Theory (10)&lt;/h3&gt;
+                        &lt;ul&gt;
+                          &lt;li class=&quot;views-row-{{evenodd}} views-row-first&quot;&gt;
+                            &lt;div&gt;
+                              &lt;div class=&quot;views-field views-field-field-uib-study-title&quot;&gt;&lt;span class=&quot;agreement-title&quot;&gt;&lt;a href=&quot;{{ url }}&quot;&gt;{{name.firsti}}{{name.middlei}}{{name.lasti}}{{hour.short}}{{minute.long}} /
+                                {{title}}&lt;/a&gt;&lt;/span&gt;
+                                &lt;span class=&quot;studentreport-ref&quot;&gt;
+                                  &lt;a href=&quot;#&quot;&gt;
+                                    Les studentrapport
+                                  &lt;/a&gt;
+                                &lt;/span&gt;
+                              &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/li&gt;
+                          {{# listItems.ten }}
+                          &lt;li class=&quot;views-row-{{evenodd}}&quot;&gt;
+                            &lt;div&gt;
+                              &lt;div class=&quot;views-field views-field-field-uib-study-title&quot;&gt;&lt;span class=&quot;agreement-title&quot;&gt;&lt;a href=&quot;{{ url }}&quot;&gt;{{name.firsti}}{{name.middlei}}{{name.lasti}}{{hour.short}}{{minute.long}} /
+                                {{title}}&lt;/a&gt;&lt;/span&gt;
+                                &lt;span class=&quot;studentreport-ref&quot;&gt;
+                                  &lt;a href=&quot;#&quot;&gt;
+                                    Les studentrapport
+                                  &lt;/a&gt;
+                                &lt;/span&gt;
+                              &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/li&gt;
+                          {{/ listItems.ten }}
+                        &lt;/ul&gt;
+                      &lt;/div&gt;
+                      &lt;div class=&quot;item-list&quot;&gt;
+                        &lt;h3&gt;Department of Archaeology, History, Cultural Studies and Religion (22)&lt;/h3&gt;
+                        &lt;ul&gt;
+                          &lt;li class=&quot;views-row-{{evenodd}} views-row-first&quot;&gt;
+                            &lt;div&gt;
+                              &lt;div class=&quot;views-field views-field-field-uib-study-title&quot;&gt;&lt;span class=&quot;agreement-title&quot;&gt;&lt;a href=&quot;{{ url }}&quot;&gt;{{name.firsti}}{{name.middlei}}{{name.lasti}}{{hour.short}}{{minute.long}} /
+                                {{title}}&lt;/a&gt;&lt;/span&gt;
+                                &lt;span
+                                class=&quot;studentreport-ref&quot;&gt;&lt;/span&gt;
+                              &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/li&gt;
+                          {{# listItems.ten }}
+                          &lt;li class=&quot;views-row-{{evenodd}}&quot;&gt;
+                            &lt;div&gt;
+                              &lt;div class=&quot;views-field views-field-field-uib-study-title&quot;&gt;&lt;span class=&quot;agreement-title&quot;&gt;&lt;a href=&quot;{{ url }}&quot;&gt;{{name.firsti}}{{name.middlei}}{{name.lasti}}{{hour.short}}{{minute.long}} /
+                                {{title}}&lt;/a&gt;&lt;/span&gt;
+                                &lt;span
+                                class=&quot;studentreport-ref&quot;&gt;&lt;/span&gt;
+                              &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/li&gt;
+                          {{/ listItems.ten }}
+                        &lt;/ul&gt;
+                      &lt;/div&gt;
+                      &lt;div class=&quot;item-list&quot;&gt;
+                        &lt;h3&gt;Department of Biology (30)&lt;/h3&gt;
+                        &lt;ul&gt;
+                          &lt;li class=&quot;views-row-{{evenodd}} views-row-first&quot;&gt;
+                            &lt;div&gt;
+                              &lt;div class=&quot;views-field views-field-field-uib-study-title&quot;&gt;&lt;span class=&quot;agreement-title&quot;&gt;&lt;a href=&quot;{{ url }}&quot;&gt;{{name.firsti}}{{name.middlei}}{{name.lasti}}{{hour.short}}{{minute.long}} /
+                                {{title}}&lt;/a&gt;&lt;/span&gt;
+                                &lt;span
+                                class=&quot;studentreport-ref&quot;&gt;&lt;/span&gt;
+                              &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/li&gt;
+                          {{# listItems.ten }}
+                          &lt;li class=&quot;views-row-{{evenodd}}&quot;&gt;
+                            &lt;div&gt;
+                              &lt;div class=&quot;views-field views-field-field-uib-study-title&quot;&gt;&lt;span class=&quot;agreement-title&quot;&gt;&lt;a href=&quot;{{ url }}&quot;&gt;{{name.firsti}}{{name.middlei}}{{name.lasti}}{{hour.short}}{{minute.long}} /
+                                {{title}}&lt;/a&gt;&lt;/span&gt;
+                                &lt;span
+                                class=&quot;studentreport-ref&quot;&gt;&lt;/span&gt;
+                              &lt;/div&gt;
+                            &lt;/div&gt;
+                          &lt;/li&gt;
+                          {{/ listItems.ten }}
+                        &lt;/ul&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/main&gt;

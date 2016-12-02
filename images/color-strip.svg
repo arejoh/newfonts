@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="492px" height="5px" viewBox="0 0 492 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>Fargestripe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Skisser-sidemaler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Forsiden-(Desktop)" sketch:type="MSArtboardGroup" transform="translate(-220.000000, -694.000000)">
+            <g id="Forskning" sketch:type="MSLayerGroup" transform="translate(220.000000, 694.000000)">
+                <g id="Fargestripe" sketch:type="MSShapeGroup">
+                    <path d="M327.409126,4.5 L409.260118,4.5 L409.260118,0.266 L327.409126,0.266 L327.409126,4.5 Z" id="Rød" fill="#E65343"></path>
+                    <path d="M0,4.5 L81.8509927,4.5 L81.8509927,0.266 L0,0.266 L0,4.5 Z" id="Sort" fill="#23394D"></path>
+                    <path d="M81.8509927,4.5 L163.701985,4.5 L163.701985,0.266 L81.8509927,0.266 L81.8509927,4.5 Z" id="Blå" fill="#5AAEC6"></path>
+                    <path d="M163.704563,4.5 L245.555556,4.5 L245.555556,0.266 L163.704563,0.266 L163.704563,4.5 Z" id="Gul" fill="#DBC048"></path>
+                    <path d="M245.555556,4.5 L327.406548,4.5 L327.406548,0.266 L245.555556,0.266 L245.555556,4.5 Z" id="Grønn" fill="#8AAB67"></path>
+                    <path d="M409.260118,4.5 L491.111111,4.5 L491.111111,0.266 L409.260118,0.266 L409.260118,4.5 Z" id="Lilla" fill="#8D5F8F"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

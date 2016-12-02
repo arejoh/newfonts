@@ -1,0 +1,80 @@
+&lt;main&gt;
+  &lt;a id=&quot;main-content&quot;&gt;&lt;/a&gt;
+  &lt;div class=&quot;tabs&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;content-main-wrapper&quot;&gt;
+    &lt;div class=&quot;region region-content&quot;&gt;
+      &lt;div class=&quot;block block-system&quot; id=&quot;block-system-main&quot;&gt;
+        &lt;div class=&quot;content&quot;&gt;
+          &lt;div class=&quot;node node-uib-views-page clearfix&quot; id=&quot;node-87343&quot;&gt;
+            &lt;div class=&quot;content&quot;&gt;
+              {{&gt;atoms-study-list-title(title: &quot;S&Atilde;&cedil;k i emner&quot;)}}
+              &lt;div class=&quot;block block-views&quot; id=&quot;block-views-study-blocks-courses-all-b1&quot;&gt;
+                &lt;div class=&quot;content&quot;&gt;
+                  &lt;div class=&quot;view view-study-blocks view-id-study_blocks view-display-id-courses_all_b1 uib-all-courses view-dom-id-4fd7cb7d46610c94d436722c3e59cc75 jquery-once-2-processed&quot;&gt;
+                    &lt;div class=&quot;view-filters&quot;&gt;
+                      &lt;form accept-charset=&quot;UTF-8&quot; id=&quot;views-exposed-form-study-blocks-courses-all-b1&quot; method=&quot;get&quot; action=&quot;/nb&quot; class=&quot;jquery-once-2-processed&quot;&gt;
+                        &lt;div&gt;
+                          &lt;div class=&quot;views-exposed-form&quot;&gt;
+                            &lt;div class=&quot;views-exposed-widgets clearfix&quot;&gt;
+                              &lt;div class=&quot;study-points-category&quot;&gt;
+                                {{&gt;molecules-filter-by-level}}
+                                {{&gt;molecules-filter-by-degree}}
+                              &lt;/div&gt;
+                              &lt;div class=&quot;study-tids&quot;&gt;
+                              &lt;h3&gt;Filtrer p&Atilde;&yen; fag&lt;/h3&gt;
+                              {{# listItems.five }}
+                              &lt;div class=&quot;views-exposed-widget views-widget-filter-tid&quot; id=&quot;edit-tid-wrapper&quot;&gt;
+                                &lt;div class=&quot;views-widget&quot;&gt;
+                                  &lt;div class=&quot;form-item form-type-select form-item-tid&quot;&gt;
+                                    &lt;fieldset class=&quot;bef-select-as-checkboxes-fieldset collapsible collapsed form-wrapper collapse-processed&quot;&gt;
+                                      &lt;legend&gt;&lt;span class=&quot;fieldset-legend&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;fieldset-title&quot;&gt;&lt;span class=&quot;fieldset-legend-prefix element-invisible&quot;&gt;Vis&lt;/span&gt; {{title}}&lt;/a&gt;&lt;span class=&quot;summary&quot;&gt;&lt;/span&gt;&lt;/span&gt;
+                                      &lt;/legend&gt;
+                                      &lt;div class=&quot;fieldset-wrapper&quot;&gt;
+                                        &lt;div class=&quot;form-checkboxes bef-select-as-checkboxes bef-select-all-none bef-processed bef-required-filter-processed&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;bef-toggle&quot;&gt;Velg alle&lt;/a&gt;
+                                          &lt;div class=&quot;bef-checkboxes&quot;&gt;
+                                            {{&gt;atoms-bef-checkbox(label: &quot;Lorem ipsum&quot;, id: &quot;anyid1&quot;, class: &quot;option&quot;, value:&quot;1&quot;)}}
+                                            {{&gt;atoms-bef-checkbox(label: &quot;Dolor sit&quot;, id: &quot;anyid2&quot;, class: &quot;option&quot;, value:&quot;1&quot;)}}
+                                            {{&gt;atoms-bef-checkbox(label: &quot;Amet&quot;, id: &quot;anyid3&quot;, class: &quot;option&quot;, value:&quot;1&quot;)}}
+                                            {{&gt;atoms-bef-checkbox(label: &quot;Sollicitudin&quot;, id: &quot;anyid4&quot;, class: &quot;option&quot;, value:&quot;1&quot;)}}
+                                            {{&gt;atoms-bef-checkbox(label: &quot;Sed ut perspiciatis&quot;, id: &quot;anyid5&quot;, class: &quot;option&quot;, value:&quot;1&quot;)}}
+                                            {{&gt;atoms-bef-checkbox(label: &quot;Ut enim ad&quot;, id: &quot;anyid6&quot;, class: &quot;option&quot;, value:&quot;1&quot;)}}
+                                          &lt;/div&gt;
+                                        &lt;/div&gt;
+                                      &lt;/div&gt;
+                                    &lt;/fieldset&gt;
+
+                                    &lt;div class=&quot;description&quot;&gt;Leave blank for all. Otherwise, the first selected term will be the default instead of &quot;Any&quot;.&lt;/div&gt;
+                                  &lt;/div&gt;
+                                &lt;/div&gt;
+                              &lt;/div&gt;
+                              {{/ listItems.five }}
+                              &lt;/div&gt;
+                              {{&gt;atoms-bef-submit-button(label: &quot;Bruk&quot;)}}
+                            &lt;/div&gt;
+                          &lt;/div&gt;
+                        &lt;/div&gt;
+                      &lt;/form&gt;
+                    &lt;/div&gt;
+                    {{&gt;atoms-study-list-results-found(type: &quot;emner&quot;)}}
+                    &lt;div class=&quot;view-content&quot;&gt;
+                      &lt;div class=&quot;item-list&quot;&gt;
+                        &lt;ul&gt;
+                          {{# listItems.ten }}
+                          &lt;li class=&quot;views-row-odd views-row-first&quot;&gt;
+                            &lt;a href=&quot;{{ url }}&quot;&gt;{{name.firsti}}{{name.middlei}}{{name.lasti}}{{hour.short}}{{minute.long}} /
+                                {{title}}&lt;/a&gt;
+                          &lt;/li&gt;
+                          {{/ listItems.ten }}
+                        &lt;/ul&gt;
+                      &lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/main&gt;

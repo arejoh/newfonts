@@ -1,0 +1,19 @@
+&lt;div class=&quot;uib-tabs-container&quot;&gt;
+  &lt;ul class=&quot;uib-tabs-list&quot;&gt;
+    {{# listItems.four }}
+      &lt;li&gt;&lt;a href=&quot;#{{ name.first }}&quot;&gt;{{ name.first }} {{ name.last }}&lt;/a&gt;&lt;/li&gt;
+    {{/ listItems.four }}
+  &lt;/ul&gt;
+  &lt;div class=&quot;tabs-content&quot;&gt;
+    {{# listItems.four }}
+    &lt;div id=&quot;{{ name.first }}&quot;&gt;
+      &lt;h2&gt;{{ name.first }} {{ name.last }}&lt;/h2&gt;
+      &lt;p&gt;{{ excerpt.short }}&lt;/p&gt;
+      &lt;h4&gt;{{ headline.short }}&lt;/h4&gt;
+      &lt;p&gt;&lt;a href=&quot;{{ url }}&quot;&gt;{{ url }}&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;{{ excerpt.medium }}&lt;/p&gt;
+      &lt;p&gt;{{ excerpt.long }}&lt;/p&gt;
+    &lt;/div&gt;
+    {{/ listItems.four }}
+  &lt;/div&gt;
+&lt;/div&gt;

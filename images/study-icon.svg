@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 39.385 45.275"
+	 style="enable-background:new 0 0 39.385 45.275;" xml:space="preserve" width="38px">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g id="Layer_2">
+		</g>
+		<g id="Layer_1">
+			<path style="fill:none;stroke:#FFFFFF;stroke-width:1.1214;stroke-linecap:round;stroke-miterlimit:10;" d="M28.601,14.789
+				c0,0,0.07-1.401-0.301-3.182"/>
+
+				<line style="fill:none;stroke:#FFFFFF;stroke-width:1.1214;stroke-linecap:round;stroke-miterlimit:10;" x1="28.301" y1="11.612" x2="28.301" y2="5.811"/>
+			<path style="fill:none;stroke:#FFFFFF;stroke-width:1.1032;stroke-linecap:round;stroke-miterlimit:10;" d="M10.961,11.967
+				c5.699,1.759,11.641,1.759,17.339,0"/>
+			<path style="fill:none;stroke:#FFFFFF;stroke-width:1.1032;stroke-linecap:round;stroke-miterlimit:10;" d="M28.744,15.057
+				c0.986,0.272,1.699,1.409,1.699,2.81c0,1.542-0.868,2.764-2.003,2.864c-0.636,2.335-1.954,4.337-3.734,5.679l0.29,2.437
+				c0.047,0.389,0.267,0.739,0.602,0.958c0.119,0.078,0.25,0.137,0.388,0.176l6.343,1.782c0.822,0.175,1.662,0.6,2.487,1.26
+				c1.301,1.04,2.195,2.486,2.52,4.074l1.489,7.214c0.024,0.101-0.006,0.208-0.073,0.288c-0.068,0.078-0.167,0.125-0.277,0.125
+				H31.67H0.909c-0.109,0-0.207-0.047-0.277-0.125c-0.067-0.08-0.095-0.187-0.072-0.288l1.489-7.214
+				c0.325-1.588,1.218-3.035,2.519-4.074c0.827-0.659,1.665-1.084,2.487-1.26l6.344-1.782c0.138-0.039,0.269-0.098,0.388-0.176
+				c0.335-0.219,0.555-0.569,0.601-0.958l0.292-2.437c-1.781-1.341-3.098-3.343-3.734-5.679c-1.135-0.101-2.003-1.322-2.003-2.864
+				c0-1.401,0.713-2.538,1.699-2.81"/>
+			<path style="fill:none;stroke:#FFFFFF;stroke-width:1.1032;stroke-linecap:round;stroke-miterlimit:10;" d="M10.959,11.966
+				c-0.381,1.729-0.317,3.091-0.317,3.091"/>
+
+				<line style="fill:none;stroke:#FFFFFF;stroke-width:1.1032;stroke-linecap:round;stroke-miterlimit:10;" x1="13.787" y1="29.805" x2="19.647" y2="35.684"/>
+
+				<line style="fill:none;stroke:#FFFFFF;stroke-width:1.1032;stroke-linecap:round;stroke-miterlimit:10;" x1="25.507" y1="29.805" x2="19.647" y2="35.684"/>
+
+				<line style="fill:none;stroke:#FFFFFF;stroke-width:1.1032;stroke-linecap:round;stroke-miterlimit:10;" x1="19.647" y1="35.684" x2="19.647" y2="39.556"/>
+
+				<line style="fill:none;stroke:#FFFFFF;stroke-width:1.1032;stroke-linecap:round;stroke-miterlimit:10;" x1="10.96" y1="6.356" x2="10.96" y2="11.967"/>
+
+				<path style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1.1032;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+				M19.693,0.552l14.37,3.722L19.63,8.49h0.001L5.198,4.274L19.693,0.552 M34.063,4.274v5.998 M34.063,10.272l-1.569,2.355
+				 M34.063,10.272l1.57,2.355"/>
+			<path style="fill:#FFFFFF;" d="M37.62,36.921c-0.325-1.588-1.219-3.035-2.52-4.074c-0.825-0.659-1.665-1.084-2.487-1.26
+				l-7.152-1.735l-5.814,5.833l-5.86-5.88l-6.448,1.782c-0.822,0.175-1.661,0.6-2.487,1.26c-1.301,1.04-2.193,2.486-2.519,4.074
+				l-1.489,7.214c-0.024,0.101,0.004,0.208,0.072,0.288c0.069,0.078,0.168,0.125,0.277,0.125h30.761h6.806
+				c0.11,0,0.208-0.047,0.277-0.125c0.067-0.08,0.096-0.187,0.073-0.288L37.62,36.921z M35.33,40.679h-5.534
+				c-0.31,0-0.561-0.251-0.561-0.561s0.251-0.561,0.561-0.561h5.534c0.31,0,0.561,0.251,0.561,0.561S35.64,40.679,35.33,40.679z"/>
+		</g>
+	</g>
+</switch>
+</svg>

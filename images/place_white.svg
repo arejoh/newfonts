@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 20"
+	 style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<title>Tid</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<g id="Skisser-sidemaler_2_" sketch:type="MSPage">
+		<g id="Kalender_2_" transform="translate(-452.000000, -714.000000)" sketch:type="MSArtboardGroup">
+			<g id="Feed-_x28_i-dag_x29__2_" transform="translate(305.000000, 561.000000)" sketch:type="MSLayerGroup">
+				<g id="Event-1_2_" transform="translate(0.000000, 90.000000)" sketch:type="MSShapeGroup">
+					<g id="Sted_1_">
+						<g>
+							<path class="st0" d="M157.1,83l-7.7-8.8c-0.9-1.4-1.4-2.6-1.4-3.8c0-4.1,4-7.4,9-7.4s9,3.3,9,7.4c0,1.3-0.4,2.6-1.2,3.7
+								L157.1,83z M157,64.2c-4.2,0-7.7,2.8-7.7,6.1c0,1,0.3,2,1.1,3.1l6.7,7.6l6.7-7.8c0.6-0.9,1-1.9,1-2.9
+								C164.7,67,161.2,64.2,157,64.2z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path class="st0" d="M10,11.7c-2.2,0-4-1.7-4-3.9s1.8-3.9,4-3.9c2.2,0,4,1.7,4,3.9S12.2,11.7,10,11.7z M10,5.2
+			c-1.6,0-2.8,1.2-2.8,2.6c0,1.5,1.3,2.6,2.8,2.6s2.8-1.2,2.8-2.6C12.8,6.3,11.5,5.2,10,5.2z"/>
+	</g>
+</g>
+</svg>

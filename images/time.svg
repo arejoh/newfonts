@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 20"
+	 style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#606060;}
+</style>
+<title>Tid</title>
+<desc>Created with Sketch.</desc>
+<g id="Skisser-sidemaler" sketch:type="MSPage">
+	<g id="Kalender" transform="translate(-306.000000, -713.000000)" sketch:type="MSArtboardGroup">
+		<g id="Feed-_x28_i-dag_x29_" transform="translate(305.000000, 561.000000)" sketch:type="MSLayerGroup">
+			<g id="Event-1" transform="translate(0.000000, 90.000000)" sketch:type="MSShapeGroup">
+				<g id="Tid" transform="translate(1.000000, 62.000000)">
+					<path id="Fill-1" class="st0" d="M10,20C4.5,20,0,15.5,0,10C0,4.5,4.5,0,10,0s10,4.5,10,10C20,15.5,15.5,20,10,20L10,20z
+						 M10,1.3c-4.8,0-8.7,3.9-8.7,8.7s3.9,8.7,8.7,8.7c4.8,0,8.7-3.9,8.7-8.7S14.8,1.3,10,1.3L10,1.3z"/>
+					<path id="Fill-2" class="st0" d="M15.4,14.4l-5.9-4.2V2.9h1.1v6.8l5.4,3.8L15.4,14.4"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

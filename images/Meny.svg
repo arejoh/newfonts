@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="37px" height="26px" viewBox="0 0 37 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>Meny</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Skisser-sidemaler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Forsiden-mobil" sketch:type="MSArtboardGroup" transform="translate(-370.000000, -27.000000)" stroke-linecap="square" stroke="#FFFFFF" stroke-width="4">
+            <g id="Header-rød-(Global)" sketch:type="MSLayerGroup">
+                <g id="Meny" transform="translate(372.000000, 27.000000)" sketch:type="MSShapeGroup">
+                    <path d="M0.66,2 L32.3674883,2" id="Line"></path>
+                    <path d="M0.66,13 L32.3674883,13" id="Line-2"></path>
+                    <path d="M0.66,24 L32.3674883,24" id="Line-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

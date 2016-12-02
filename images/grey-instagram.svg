@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0,0.983 L34.016,0.983 L34.016,35 L0,35 L0,0.983 Z"></path>
+    </defs>
+    <g id="Skisser-sidemaler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Oppsett-ikoner-etc." sketch:type="MSArtboardGroup" transform="translate(-608.000000, -377.000000)">
+            <g id="instagram" sketch:type="MSLayerGroup" transform="translate(608.000000, 376.000000)">
+                <path d="M23.5469,14.3306 L23.5469,11.8206 L23.5469,11.4456 L23.1699,11.4476 L20.6619,11.4556 L20.6719,14.3386 L23.5469,14.3306 Z" id="Fill-1" fill="#606060" sketch:type="MSShapeGroup"></path>
+                <g id="Group-9">
+                    <path d="M17.0098,20.9844 C18.6598,20.9844 20.0038,19.6424 20.0038,17.9924 C20.0038,17.3404 19.7928,16.7384 19.4378,16.2464 C18.8928,15.4924 18.0098,14.9984 17.0098,14.9984 C16.0118,14.9984 15.1268,15.4924 14.5838,16.2464 C14.2288,16.7384 14.0178,17.3404 14.0178,17.9924 C14.0178,19.6424 15.3598,20.9844 17.0098,20.9844" id="Fill-2" fill="#606060" sketch:type="MSShapeGroup"></path>
+                    <g id="Group-6">
+                        <mask id="mask-2" sketch:name="Clip 5" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-5"></g>
+                        <path d="M25.5137,16.2466 L25.5137,23.2086 C25.5137,25.0216 24.0387,26.4966 22.2267,26.4966 L11.7927,26.4966 C9.9807,26.4966 8.5057,25.0216 8.5057,23.2086 L8.5057,16.2466 L8.5057,12.7736 C8.5057,10.9616 9.9807,9.4886 11.7927,9.4886 L22.2267,9.4886 C24.0387,9.4886 25.5137,10.9616 25.5137,12.7736 L25.5137,16.2466 Z M17.0077,0.9826 C7.6137,0.9826 -0.0003,8.5986 -0.0003,17.9906 C-0.0003,27.3826 7.6137,34.9996 17.0077,34.9996 C26.4027,34.9996 34.0157,27.3826 34.0157,17.9906 C34.0157,8.5986 26.4027,0.9826 17.0077,0.9826 L17.0077,0.9826 Z" id="Fill-4" fill="#606060" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M21.6602,17.9927 C21.6602,20.5547 19.5742,22.6427 17.0102,22.6427 C14.4452,22.6427 12.3592,20.5547 12.3592,17.9927 C12.3592,17.3757 12.4822,16.7857 12.7032,16.2467 L10.1642,16.2467 L10.1642,23.2087 C10.1642,24.1077 10.8942,24.8377 11.7932,24.8377 L22.2262,24.8377 C23.1272,24.8377 23.8572,24.1077 23.8572,23.2087 L23.8572,16.2467 L21.3182,16.2467 C21.5372,16.7857 21.6602,17.3757 21.6602,17.9927" id="Fill-7" fill="#606060" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

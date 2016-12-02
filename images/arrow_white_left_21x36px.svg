@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.831787"
+   height="35.261532"
+   viewBox="0 0 16.831787 35.261532"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="arrow_white_right_21x36px.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>pil 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     id="namedview15"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="19.091883"
+     inkscape:cx="-5.8487017"
+     inkscape:cy="13.954816"
+     inkscape:window-x="1265"
+     inkscape:window-y="642"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">pil 1</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="Skisser-sidemaler"
+     sketch:type="MSPage"
+     transform="matrix(0,3.4089698,-3.4089698,0,18.774117,-3.2539984)"
+     style="fill:none;stroke:#ffffff;stroke-width:0.66107236999999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+    <g
+       id="Områdeforside-juridisk"
+       sketch:type="MSArtboardGroup"
+       transform="translate(-366,-291)"
+       style="stroke:#ffffff;stroke-width:0.66107236999999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <g
+         id="Områdeidentifikator/meny"
+         sketch:type="MSLayerGroup"
+         transform="translate(-5,96)"
+         style="stroke:#ffffff;stroke-width:0.66107236999999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <g
+           id="Områdemeny-HOVER-og-AKTIV"
+           transform="translate(224,170)"
+           sketch:type="MSShapeGroup"
+           style="stroke:#ffffff;stroke-width:0.66107236999999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+          <path
+             d="m 151,23 4.25977,4.973745 -4.2185,4.925558"
+             id="pil-1"
+             transform="matrix(0,1,-1,0,181.07954,-125.18023)"
+             inkscape:connector-curvature="0"
+             style="stroke:#ffffff;stroke-width:0.66107236999999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

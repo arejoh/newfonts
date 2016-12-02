@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html class="uib-base">
+  <head>
+		<title>uib-base</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond|Open+Sans:400,400i,700,700i&amp;subset=cyrillic-ext,latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/style.css?1480664906" media="all" />
+    <link rel="stylesheet" href="../../css/drupal-built-in-styles.css" media="all" />
+    <link rel="stylesheet" href="../../css/system.base.css" media="all" />
+    <link rel="stylesheet" href="../../css/field_collection.theme.css" media="all" />
+
+		<!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
+				<!-- never cache patterns -->
+		<meta http-equiv="cache-control" content="max-age=0" />
+		<meta http-equiv="cache-control" content="no-cache" />
+		<meta http-equiv="expires" content="0" />
+		<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+		<meta http-equiv="pragma" content="no-cache" />
+		
+		<link rel="stylesheet" href="../../styleguide/css/styleguide.css?1480664906" media="all">
+		<link rel="stylesheet" href="../../styleguide/css/styleguide-specific.css?1480664906" media="all" />
+		
+
+		<!-- End Pattern Lab -->
+
+	</head>
+	<body class="body">
+<div class="content">
+    <div class="view view-internal-market view-id-internal_market view-display-id-page view-dom-id-69e80735a2a889bdeaada13be6b192da">
+            <div class="view-header">
+      Displaying 2 notices    </div>
+      <div class="view-filters">
+      <form action="/nb/foransatte/marked" method="get" id="views-exposed-form-internal-market-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-uib-market-category-value-wrapper" class="views-exposed-widget views-widget-filter-field_uib_market_category_value">
+                  <label for="edit-field-uib-market-category-value">
+            Filtrer på kategori          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-uib-market-category-value">
+ <div class="form-checkboxes bef-select-as-checkboxes bef-required-filter-processed"><div class="bef-checkboxes"><div class="form-item form-type-bef-checkbox form-item-edit-field-uib-market-category-value-housing">
+ <input type="checkbox" name="field_uib_market_category_value[]" id="edit-field-uib-market-category-value-housing" value="housing"> <label class="option" for="edit-field-uib-market-category-value-housing">Bolig til leie</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-field-uib-market-category-value-housingwanted">
+ <input type="checkbox" name="field_uib_market_category_value[]" id="edit-field-uib-market-category-value-housingwanted" value="housingwanted"> <label class="option" for="edit-field-uib-market-category-value-housingwanted">Bolig ønsket</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-field-uib-market-category-value-other">
+ <input type="checkbox" name="field_uib_market_category_value[]" id="edit-field-uib-market-category-value-other" value="other"> <label class="option" for="edit-field-uib-market-category-value-other">Annet</label>
+</div>
+</div></div>
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-internal-market" name="" value="Bruk" class="form-submit">    </div>
+      </div>
+</div>
+</div></form>    </div>
+      <div class="view-content">
+      <div class="item-list">      <h3>Bolig til leie</h3>
+    <ul>          <li class="">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/nb/foransatte/marked/96709/need-house">Need house</a></span>  </div></li>
+      </ul></div><div class="item-list">      <h3>Bolig ønsket</h3>
+    <ul>          <li class="">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/nb/foransatte/marked/96710/meh-hus-get">meh hus get</a></span>  </div></li>
+      </ul></div>    </div>
+</div>  </div>
+	
+		<script src="../../js/global.js"></script>
+	
+	
+
+	<!--DO NOT REMOVE-->
+		
+	<script>
+		// handle injection of items from PHP
+		var patternPartial = "molecules-inner-market";
+		var lineage        = [];
+		var lineageR       = [];
+		var patternState   = "";
+		var cssEnabled     = false;
+	</script>
+		<script>
+		/*!
+		 * scriptLoader - v0.1
+		 *
+		 * Copyright (c) 2014 Dave Olsen, http://dmolsen.com
+		 * Licensed under the MIT license
+		 *
+		 */
+		
+		var scriptLoader = {
+			
+			run: function(js,cb,target) {
+				var s  = document.getElementById(target+'-'+cb); 
+				for (var i = 0; i < js.length; i++) {
+					var src = (typeof js[i] != "string") ? js[i].src : js[i];
+					var c   = document.createElement('script');
+					c.src   = '../../'+src+'?'+cb;
+					if (typeof js[i] != "string") {
+						if (js[i].dep !== undefined) {
+							c.onload = function(dep,cb,target) {
+								return function() {
+									scriptLoader.run(dep,cb,target);
+								}
+							}(js[i].dep,cb,target);
+						}
+					}
+					s.parentNode.insertBefore(c,s);
+				}
+			}
+			
+		}
+	</script>
+	<script id="pl-js-polyfill-insert-1480664906">
+		(function() {
+			if (self != top) {
+				var cb = '1480664906';
+				var js = [];
+				if (typeof document !== "undefined" && !("classList" in document.documentElement)) {
+					js.push("styleguide/js/vendor/classlist-polyfill.js");
+				}
+				scriptLoader.run(js,cb,'pl-js-polyfill-insert');
+			}
+		})();
+	</script>
+	<script id="pl-js-insert-1480664906">
+		(function() {
+			if (self != top) {
+				var cb = '1480664906';
+				var js = [ { "src": "styleguide/js/vendor/jwerty.js", "dep": [ "styleguide/js/postmessage.js", { "src": "data/annotations.js", "dep": [ "styleguide/js/annotations-pattern.js" ] }, "styleguide/js/code-pattern.js" ] } ];
+				scriptLoader.run(js,cb,'pl-js-insert');
+			}
+		})();
+	</script>
+	
+
+
+	</body>
+</html>

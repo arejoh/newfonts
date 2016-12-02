@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html class="uib-base">
+  <head>
+		<title>uib-base</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond|Open+Sans:400,400i,700,700i&amp;subset=cyrillic-ext,latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/style.css?1480664906" media="all" />
+    <link rel="stylesheet" href="../../css/drupal-built-in-styles.css" media="all" />
+    <link rel="stylesheet" href="../../css/system.base.css" media="all" />
+    <link rel="stylesheet" href="../../css/field_collection.theme.css" media="all" />
+
+		<!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
+				<!-- never cache patterns -->
+		<meta http-equiv="cache-control" content="max-age=0" />
+		<meta http-equiv="cache-control" content="no-cache" />
+		<meta http-equiv="expires" content="0" />
+		<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+		<meta http-equiv="pragma" content="no-cache" />
+		
+		<link rel="stylesheet" href="../../styleguide/css/styleguide.css?1480664906" media="all">
+		<link rel="stylesheet" href="../../styleguide/css/styleguide-specific.css?1480664906" media="all" />
+		
+
+		<!-- End Pattern Lab -->
+
+	</head>
+	<body class="body">
+<form action="/nb/persons" method="get" id="views-exposed-form-ansatte-page-1" accept-charset="UTF-8">
+	<div>
+		<div class="views-exposed-form">
+			<div class="views-exposed-widgets clearfix">
+				<div id="edit-field-uib-first-name-value-wrapper" class="views-exposed-widget views-widget-filter-field_uib_first_name_value">
+					<label for="edit-field-uib-first-name-value">Fornavn</label>
+					<div class="views-widget">
+						<div class="form-item form-type-textfield form-item-field-uib-first-name-value">
+							<input type="text" id="edit-field-uib-first-name-value" name="field_uib_first_name_value" value="" size="30" maxlength="128" class="form-text">
+						</div>
+					</div>
+				</div>
+				<div id="edit-field-uib-last-name-value-wrapper" class="views-exposed-widget views-widget-filter-field_uib_last_name_value">
+					<label for="edit-field-uib-last-name-value">Etternavn</label>
+					<div class="views-widget">
+					<div class="form-item form-type-textfield form-item-field-uib-last-name-value">
+						<input type="text" id="edit-field-uib-last-name-value" name="field_uib_last_name_value" value="" size="30" maxlength="128" class="form-text">
+					</div>
+					</div>
+				</div>
+				<div id="edit-field-uib-user-competence-wrapper" class="views-exposed-widget views-widget-filter-field_uib_user_competence_tid">
+					<label for="edit-field-uib-user-competence">Kompetansefelt</label>
+					<div class="views-widget">
+						<div class="form-item form-type-textfield form-item-field-uib-user-competence" role="application">
+							<input type="text" id="edit-field-uib-user-competence" name="field_uib_user_competence" value="" size="60" maxlength="128" class="form-text form-autocomplete" autocomplete="OFF" aria-autocomplete="list"><input type="hidden" id="edit-field-uib-user-competence-autocomplete" value="https://w3-prestaging.test.uib.no/?q=nb/admin/views/ajax/autocomplete/taxonomy/3" disabled="disabled" class="autocomplete autocomplete-processed">
+							<span class="element-invisible" aria-live="assertive" id="edit-field-uib-user-competence-autocomplete-aria-live"></span>
+						</div>
+					</div>
+				</div>
+				<div class="views-exposed-widget views-submit-button">
+					<input type="submit" id="edit-submit-ansatte" name="" value="Bruk" class="form-submit">
+				</div>
+			</div>
+		</div>
+	</div>
+</form>	
+		<script src="../../js/global.js"></script>
+	
+	
+
+	<!--DO NOT REMOVE-->
+		
+	<script>
+		// handle injection of items from PHP
+		var patternPartial = "molecules-person-search";
+		var lineage        = [];
+		var lineageR       = [{"lineagePattern":"molecules-persons-list","lineagePath":"..\/..\/patterns\/01-molecules-01-blocks-60-persons-list\/01-molecules-01-blocks-60-persons-list.html"}];
+		var patternState   = "";
+		var cssEnabled     = false;
+	</script>
+		<script>
+		/*!
+		 * scriptLoader - v0.1
+		 *
+		 * Copyright (c) 2014 Dave Olsen, http://dmolsen.com
+		 * Licensed under the MIT license
+		 *
+		 */
+		
+		var scriptLoader = {
+			
+			run: function(js,cb,target) {
+				var s  = document.getElementById(target+'-'+cb); 
+				for (var i = 0; i < js.length; i++) {
+					var src = (typeof js[i] != "string") ? js[i].src : js[i];
+					var c   = document.createElement('script');
+					c.src   = '../../'+src+'?'+cb;
+					if (typeof js[i] != "string") {
+						if (js[i].dep !== undefined) {
+							c.onload = function(dep,cb,target) {
+								return function() {
+									scriptLoader.run(dep,cb,target);
+								}
+							}(js[i].dep,cb,target);
+						}
+					}
+					s.parentNode.insertBefore(c,s);
+				}
+			}
+			
+		}
+	</script>
+	<script id="pl-js-polyfill-insert-1480664906">
+		(function() {
+			if (self != top) {
+				var cb = '1480664906';
+				var js = [];
+				if (typeof document !== "undefined" && !("classList" in document.documentElement)) {
+					js.push("styleguide/js/vendor/classlist-polyfill.js");
+				}
+				scriptLoader.run(js,cb,'pl-js-polyfill-insert');
+			}
+		})();
+	</script>
+	<script id="pl-js-insert-1480664906">
+		(function() {
+			if (self != top) {
+				var cb = '1480664906';
+				var js = [ { "src": "styleguide/js/vendor/jwerty.js", "dep": [ "styleguide/js/postmessage.js", { "src": "data/annotations.js", "dep": [ "styleguide/js/annotations-pattern.js" ] }, "styleguide/js/code-pattern.js" ] } ];
+				scriptLoader.run(js,cb,'pl-js-insert');
+			}
+		})();
+	</script>
+	
+
+
+	</body>
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="29px" viewBox="0 0 40 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>Kontakt ikon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Skisser-sidemaler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Aktuelt-2" sketch:type="MSArtboardGroup" transform="translate(-205.000000, -3324.000000)" fill="#CF3C3A">
+            <g id="MENY-BUNN-+-KONTANTINFO" sketch:type="MSLayerGroup" transform="translate(-4.000000, 3042.000000)">
+                <g id="KONTAKTINFO" transform="translate(209.500000, 277.500000)" sketch:type="MSShapeGroup">
+                    <g id="KONTAKT-OSS">
+                        <path d="M36.7346939,5 L2.44897959,5 C1.09632653,5 0,6.11277143 0,7.48571429 L0,30.6857143 C0,32.0586571 1.09632653,33.1714286 2.44897959,33.1714286 L36.7346939,33.1714286 C38.0881633,33.1714286 39.1836735,32.0586571 39.1836735,30.6857143 L39.1836735,7.48571429 C39.1836735,6.11277143 38.0881633,5 36.7346939,5 L36.7346939,5 Z M37.4179592,8.19828571 L23.7387755,21.6973714 C22.595102,22.8258857 21.0930612,23.3884857 19.5918367,23.3884857 C18.0897959,23.3884857 16.5885714,22.8258857 15.4457143,21.6973714 L1.76653061,8.19828571 C1.37877551,7.81548571 1.36979592,7.1866 1.74693878,6.7922 C2.12408163,6.3978 2.7444898,6.39034286 3.1322449,6.77314286 L16.8122449,20.2714 C18.3444898,21.7843714 20.84,21.7843714 22.3722449,20.2714 L36.0522449,6.77314286 C36.4391837,6.39034286 37.0595918,6.3978 37.437551,6.7922 C37.8146939,7.1866 37.8057143,7.81548571 37.4179592,8.19828571 L37.4179592,8.19828571 Z" id="Kontakt-ikon"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

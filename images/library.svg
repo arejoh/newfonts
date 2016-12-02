@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>Ill biblioteket</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Skisser-sidemaler" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Forsiden-(Desktop)" sketch:type="MSArtboardGroup" transform="translate(-534.000000, -1734.000000)">
+            <g id="Publikumstjenester" sketch:type="MSLayerGroup" transform="translate(0.000000, 1677.000000)">
+                <g id="Universitetsbiblioteket" transform="translate(475.000000, 57.000000)" sketch:type="MSShapeGroup">
+                    <g id="Ill-biblioteket" transform="translate(59.000000, 0.000000)">
+                        <path d="M129.846584,64.8465839 C129.846584,100.521491 100.925217,129.442857 65.2503106,129.442857 C29.5737888,129.442857 0.654037267,100.521491 0.654037267,64.8465839 C0.654037267,29.1700621 29.5737888,0.250310559 65.2503106,0.250310559 C100.925217,0.250310559 129.846584,29.1700621 129.846584,64.8465839" id="Fill-1" fill="#F5F5F5"></path>
+                        <path d="M63.812236,36.6672671 L18.6909317,49.8852795 C18.6909317,49.8852795 11.0782609,56.5984472 19.7979503,63.657205 L68.6763354,92.8652174 C68.9855901,93.0501242 69.3659006,93.0759627 69.6985714,92.9338509 L114.886087,73.6236025 L112.810932,72.9308075 L113.087888,64.7650311 L114.886087,64.0730435 L63.812236,36.6672671" id="Fill-2" fill="#86BDD1"></path>
+                        <path d="M69.2738509,91.0129193 L72.0086957,91.9422981 L114.877205,73.6236025 L112.800435,72.9308075 L69.2738509,91.0129193" id="Fill-3" fill="#5EADC5"></path>
+                        <path d="M33.6926087,71.7882609 C24.9729193,64.7295031 33.851677,58.751118 33.851677,58.751118 L79.3056522,44.9961491 L92.7231056,52.2099379 L47.0495031,66.0585714 C47.0495031,66.0585714 39.2632298,73.2691304 47.9837267,80.3278882 L33.6926087,71.7882609" id="Fill-4" fill="#5EADC5"></path>
+                        <path d="M113.087888,64.7650311 L67.9649689,81.7667702 C67.9649689,81.7667702 66.6310559,88.2861491 69.2738509,91.0129193 L112.810124,72.9316149 L113.087888,64.7650311" id="Fill-5" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
